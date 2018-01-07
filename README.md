@@ -1,6 +1,6 @@
 # Regression
 
-The objective of this depository is to implement linear and logistic regression from scratch in Python.
+The objective of this repository is to implement linear and logistic regression from scratch in Python.
 
 ## Linear regression
 First, I started by defining the loss function and the function for learning the linear regression parameters.
