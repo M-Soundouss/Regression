@@ -1,7 +1,11 @@
 # Regression
-
-The objective of this repository is to implement linear and logistic regression from scratch in Python.
-
+----------------------------------------------------------------------------------------------
+###### Author: Soundouss MESSOUDI
+###### Linked In: https://ma.linkedin.com/in/soundoussmessoudi
+###### Description: The objective of this repository is to implement linear and logistic regression from scratch in Python.
+###### Version: 1.0
+###### Licence: by Soundouss MESSOUDI, Université Paris Dauphine 2018
+----------------------------------------------------------------------------------------------
 ## Linear regression
 First, I started by defining the loss function and the function for learning the linear regression parameters.
 
